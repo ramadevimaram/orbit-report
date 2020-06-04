@@ -30,3 +30,5 @@ th, td {
     background-color: rgb(233, 139, 123);
     text-align: center;
 }
+tr:nth-child(odd) {background: rgb(117, 194, 134)}
+tr:nth-child(even) {background: #FFF}
